@@ -17,7 +17,12 @@ A clean and structured PDF (`SQL_Data_Exploration_Report.pdf`) that includes:
 If included, the `.sql` file has all queries without the explanations.
 
 ---
+---
 
+## 📈 Screenshot Preview
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e233894d-c9b3-4816-9a5b-aa586668cdd1" />
+---
 ## 🧠 What I Explored
 
 Here’s a quick look at the kind of questions I answered using SQL:
