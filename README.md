@@ -17,7 +17,6 @@ A clean and structured PDF (`SQL_Data_Exploration_Report.pdf`) that includes:
 If included, the `.sql` file has all queries without the explanations.
 
 ---
----
 
 ## 📈 Screenshot Preview
 
